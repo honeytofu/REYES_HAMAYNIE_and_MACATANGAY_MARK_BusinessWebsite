@@ -95,3 +95,10 @@ footer {
         font-size: 35px;
     }
 }
+
+.owner-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
